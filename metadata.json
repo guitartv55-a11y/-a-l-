@@ -1,0 +1,6 @@
+{
+  "name": "Công nghiệp khu vực Đông Nam Á – Địa lí 11",
+  "description": "Website trình chiếu tương tác 6 slide môn Địa lí 11 (Kết nối tri thức, trang 57, Hình 12.3) về phân bố, cơ cấu ngành và các trung tâm công nghiệp chính ở Đông Nam Á, hỗ trợ xuất file PowerPoint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
